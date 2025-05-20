@@ -1,0 +1,8 @@
+flask
+pillow
+numpy
+scikit-image
+tensorflow
+flask-cors
+gunicorn
+tensorflow-cpu
