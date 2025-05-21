@@ -1,1 +1,13 @@
-".venv/" 
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / OS files
+.DS_Store
+*.swp
